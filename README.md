@@ -53,5 +53,5 @@ The project implements RNN variants, including LSTM and GRU, to perform sentimen
 The dataset used in this project consists of labeled movie reviews, each classified as either positive or negative based on its sentiment. The dataset is typically sourced from publicly available movie review websites or datasets such as IMDb or Rotten Tomatoes. It may include features such as the review text, the reviewer's rating, and additional metadata.
 
 ## Contact Information
-If you have any difficulty with this project, please contact me using my email, gaddisaolex@gmail.com
+If you have any difficulty with this project, please contact me using my email, 
 
